@@ -1,0 +1,17 @@
+# Python environment
+venv/
+__pycache__/
+*.pyc
+.env
+
+# Model weights and large files
+*.h5
+*.hdf5
+*.pkl
+*.model
+models/*/model.*
+
+# IDE specific files
+.vscode/
+.idea/
+*.swp
