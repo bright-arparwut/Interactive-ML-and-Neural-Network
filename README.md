@@ -17,20 +17,9 @@ Visualization: Matplotlib, Seaborn, Plotly
 Image Processing: Pillow
 
 📋 Project Structure
-intellilearn/
-├── app.py                   # Main application entry point
-├── pages/                   # Application pages
-│   ├── 01_ml_ex.py          # ML model explanation
-│   ├── 02_nn_ex.py          # Neural network explanation
-│   ├── 03_ml_demo.py        # Heart disease prediction demo
-│   └── 04_nn_demo.py        # Fashion MNIST classification demo
-├── data/                    # Dataset storage
-│   ├── heart_disease.csv
-│   └── fashion_mnist/
-├── models/                  # Trained models
-│   ├── ml/                  # Machine learning models
-│   └── nn/                  # Neural network models
-└── requirements.txt         # Project dependencies
+
+<img width="534" alt="image" src="https://github.com/user-attachments/assets/5c60aa0d-6ade-4dfa-ac74-1227f7841da9" />
+
 🚀 Getting Started
 Prerequisites
 
@@ -40,7 +29,7 @@ pip (Python package manager)
 Installation
 
 Clone the repository:
-bashgit clone https://github.com/yourusername/intellilearn.git
+bashgit clone https://github.com/yourusername/Interactive-ML-and-Neural-Network.git
 cd intellilearn
 
 Create a virtual environment (optional but recommended):
